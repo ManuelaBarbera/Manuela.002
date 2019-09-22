@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+.rojo{
+display: inline-block; 
+width: 200px;
+height: 200px;
+background-color: red
+}
+
+.azul{
+display: inline-block;
+width: 200px;
+height: 200px;
+background-color: blue
+}
